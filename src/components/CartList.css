@@ -1,0 +1,25 @@
+.emptydiv{
+    margin-top:20%;
+}
+p{
+    font-weight: bold;
+    color: blue;
+}
+.pricediv{
+    font-weight: bold;
+    text-align: right;
+    margin-right: 20%;
+}
+.totalpricediv{
+    font-style: oblique;
+    font-weight: bolder;
+}
+.unemptydiv{
+    background-color: beige;
+}
+h6{
+    color: red;
+}
+span{
+    font-style: italic;
+}

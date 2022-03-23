@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.col-sm-8{
+  border-radius: 1px;
+  border-style: solid;
+  border-color: gray;
+}
+.col-sm-4{
+  border-radius: 1px;
+  border-style: solid;
+  border-color: gray;
+}

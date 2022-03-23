@@ -1,0 +1,19 @@
+.list{
+   
+    list-style: none;
+    background-color: blue;
+    
+}
+li{
+    display: inline-block;
+    margin-left: 10%;
+}
+.carticon{
+    font-size: 30px;
+    color: yellow;
+}
+.productlink{
+    font-size: 30px;
+    color: yellow;
+    
+}
